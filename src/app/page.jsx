@@ -5,7 +5,7 @@ const Home = () => {
         <div class="flex flex-col items-center justify-center text-center h-screen-half">
           <img
             class="md:hidden object-cover w-15 h-40 rounded-full mb-5 ring-2 ring-gray-500/50 ring-offset-[10px]"
-            src="https://i.ibb.co/Byd813Q/mateus-campos-felipe-Zxd-JFg-SGQBA-unsplash.jpg"
+            src="https://t4.ftcdn.net/jpg/06/43/68/65/360_F_643686558_Efl6HB1ITw98bx1PdAd1wy56QpUTMh47.jpg"
             alt="Your Name Here"
           />
           <h1 class="text-5xl sm:text-6xl lg:text-8xl">Marwa Lamouri</h1>
